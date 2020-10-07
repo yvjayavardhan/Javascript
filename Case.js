@@ -14,5 +14,6 @@ switch(x){
     break;
     default:
     console.log('Invalid');
+//*Just checking clone Push
 
 }
